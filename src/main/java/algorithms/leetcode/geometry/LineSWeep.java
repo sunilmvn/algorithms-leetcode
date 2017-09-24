@@ -1,7 +1,7 @@
-package algorithms.leetcode.dynamicprogramming;
+package algorithms.leetcode.geometry;
 
-import com.sunil.algorithms.leetcode.datastructures.Line;
-import com.sunil.algorithms.leetcode.datastructures.Point;
+import algorithms.leetcode.datastructures.Line;
+import algorithms.leetcode.datastructures.Point;
 
 public class LineSWeep {
 	
